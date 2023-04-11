@@ -1,0 +1,22 @@
+Week 1
+We formed the group. I signed up and set Jira by guideline and invited tutor and our members. I discussed with my team member about the language and software for our project.
+
+Week 2
+I worked on user storys and problem definition for the proposal.
+I created a group on MS Team for meeting and discussion. 
+Week 3
+I worked on the objectives and corresponding user storys for project proposal. I discussed the system architecture with members and add user types. I worked on formatting of the proposal.
+Week 4
+I worked on the backend and I finished add dish delete dish and edit dish, and ret password for users(restaurants and customers). I also maintain the database include fix the scheme, insert real data. 
+Week 5
+I prepared for the demo A and I showed tutor our works by Jira. I assigned the task to each members and my part is to finish some functions in comment, friend and image part. We had a retrospective meeting. My job is to add more details for each user story
+Week 6
+I finished parts of the comment(add, edit, and all), image(edit, all), friend(follow and unfollow, followbyemail) and database in this week and reformat the retrospective report. 
+Week 7
+I fixed bug of comment and friend and maintain the database and add data to test our system.
+Week 8
+I discussed functions we need and I worked on message.
+Week 9
+I finished the message and share voucher part, I also work on the overview and functionality of the report.
+Week 10
+Keep adding data such as the image, new user un database. I finished the data architecture in overview, half of the functionalities description, one of the third party library and backend setup in user manual. 

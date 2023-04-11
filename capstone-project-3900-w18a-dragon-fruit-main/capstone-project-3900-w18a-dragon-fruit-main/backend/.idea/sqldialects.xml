@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/auth.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/comment.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/customer.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/friend.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/helper.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/message.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/picture.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/recommendation.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/restaurant.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/search.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/sqlite.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/subscription.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/validation.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/voucher.py" dialect="GenericSQL" />
+  </component>
+</project>

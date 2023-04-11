@@ -1,0 +1,48 @@
+Week 1
+
+- The group was formed and we decided to use the group name dragon fruit. I created my Github and Jira accounts and joined the team. 
+- I participated in the first group meeting, expressed my opinions about different projects we could choose and brainstormed new features that could be added to them.
+- With the team we decided to work with project 3 Eatery Vouchers Management System and discussed about possible approaches to the problems.
+
+Week 2
+
+- During the second meeting, I discussed with the team about what we need to do for the proposal and how to devide the tasks.
+- I helped type up requirements summaried from the project description to be used for writing user stories.
+- I created a Tasks file in MS teams channel to keep track of tasks assigned to each member.
+- I downloaded the eatclub application, researched for drawbacks of the existing system and wrote about advantages, disadvantages and how to improve them in the background section.
+- I wrote 3 user stories from a customer's point of view.
+
+Week 3
+- I wrote the basics for auth_register function which registers a user in the system
+- I tested the connection between the register function, the database and server
+
+Week 4
+- I implemented the restaurant and customer profile features including get profile details, edit name, contacts and overview.
+- I attended meetings to fix issues, discuss about and practice demo A.
+
+Week 5
+- I attended demo A and contributed to the meeting and discussion of retrospective A.
+- I fixed issues from sprint1 including combining edit profile functions for customer and restaurant.
+- I updated interface.md to state the format of frontend inputs and backend outputs for profile functions.
+
+Week 6
+- I implemented the voucher features including voucher_add, voucher_details, restaurant_vouchers_all and customer_vouchers_all.
+- I implemented the picture_add function, added server and interface for picture features and edited the picture_edit function.
+- I helped to test and fix password reset and voucher verify features.
+
+Week 7
+- I fixed a few small issues of the code including date time format and picture add method.
+- I added a new voucher summary feature to give voucher sales and added unused voucher number in get info.
+- I prepared for the presentation of the website functionalities for demo b.
+
+Week 8
+- I edited picture features to save images from form data sent by the frontend
+- I added another function in the server to display images from local files
+
+Week 9
+- I added picture features for them to be shown on the profile
+- I tested the connection between frontend and backend and prepared for the final demo
+
+Week 10
+- I finalised my code and checked the format
+- I prepared for the final demo and wrote parts of the report including software architecture, first objective and implementation challenges

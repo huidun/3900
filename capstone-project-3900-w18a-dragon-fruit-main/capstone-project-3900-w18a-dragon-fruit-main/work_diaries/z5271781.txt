@@ -1,0 +1,20 @@
+Week 1
+Our group has started a meeting and discussed about the different projects, what are the difficult part of the different projects, what are the easy part, can we overcome what is difficult, who is interesting in doing which project. And finally we have agreed on doing the project 3, which is eatery voucher system.
+Week 2
+Our group has discussed about the proposal, and my job is the Jira part, and the user story for restaurant, Ineed to put the stories into Jira.
+Week 3
+Our group has discussed the details of each function required for demo1, and each people has a  number of functions to work on.
+Week 4
+Our group has merged functions to the main, and test it with the front end. We have tested each functions about its behaviour, and most functions matches our purposes, the others after modifying the code, is now matching the purposes as well.
+Week 5
+Our group has discussed the functions and assigned them to each members. Me and Penghui has worked on the sprint 2, and we are assigned functions about comment and about friend.
+Week 6 
+Me and Penghui have finished the functions, and we are merging our functions with other members.
+Week 7
+We have merged our backend and frontend together, fixed some bug and finalised demo B.
+Week 8
+We have discussed about the demo B and what can we progress and what can we adjust.
+Week 9
+Me and Penghui are implementing the code for the assigned functions, and then connect it to front end.
+Week 10
+Our group has finished the final demo, we have merged all the functions and tested them. We have finished the final report, and added user manul, configuration etc for the report. Lastly, we have edited the code style, and finalsed the code.

@@ -1,0 +1,58 @@
+Week 1
+
+- A group called dragon fruit was formed, and I participated as a group member.
+- Read all project descriptions and make summaries for group members to read and discuss.
+- Nine long-term projects and two short-term pending projects were created in Jira.
+- We finally decided to use project 3 - Eatery Vouchers Management System for our project.
+- We brainstormed four or five new features. But no final decision.
+
+Week 2
+
+- In the second meeting, I discussed with the team what we need to do for the proposal and how to assign tasks.
+  - I summarize the characteristics in the item description.
+  - I helped enter the requirements summarized in the project description.
+- I created interface views (and possibly web views) in Miro to link web pages to better tell user stories.
+- I created flowcharts in Miro detailing the flow of a user using the entire software.
+
+Week 3
+
+- Completed all front-end page builds
+
+Week 4
+
+- Completed front-end and back-end connections
+- Prepare speech
+
+Week 5
+- Our group discussed these features and assigned them to each member. I was assigned work on the entire front end.
+- The design of the display has been completed
+
+Week 6 
+- I have done all the page design.
+- I am connecting the front and back ends with other members.
+
+Week 7
+- Continue to connect,
+- Filling in the gaps
+- Correct mistakes
+
+
+Week 8
+- Continue to connect,
+- Nearly finish but email sending
+- fix image add and show ptoblem
+- Correct mistakes
+
+
+Week 9
+- Continue to connect,
+- Fix email sendding and Like button
+- start finnal report
+- start finnal demo
+- Correct mistakes
+
+
+Week 10
+- Finish Report
+- Frontend user Guildline
+- Correct final mistakes

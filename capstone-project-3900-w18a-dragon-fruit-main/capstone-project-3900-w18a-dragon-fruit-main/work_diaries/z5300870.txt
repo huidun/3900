@@ -1,0 +1,50 @@
+Week 1
+
+- We formed our group and named it as dragon fruit.
+- Attempt the first group meeting, and we have looked into all 7 projects, discussed on each one's pros and cons.
+- After deep consideration and voting from every group members, we decided to work on project three.
+- I helped to brain-storm about the two innovative functions of our website.
+
+Week 2
+
+- Attempt the second group meeting after updating and receiving feedback from our tutor during weekly tutorial and recorded down the feedback.
+- Discussed on work distribution for the proposal.
+- Helped to type out the summary of the project's requirements in bullet points for user stories.
+- Flipped through and analysed the competitive websites - first table.
+
+Week 3
+
+- Attempt weekly group meeting and decided that both frontend and backend would start from signup implementation
+- As a backend member, a meeting was held to discuss on the backend interface
+- Working on implement signup function
+
+Week 4
+- Finished the backend of signup function and testing
+- Implemented the backend of login and logout functions
+- Attempt weekly group meeting to discuss on how to present our demo A
+
+Week 5
+- Present in demo A showcase
+- Attempt the retrospective meeting and helped to finish the report
+
+Week 6
+- Attempt weekly meeting and backend members' meeting to discuss and distribute the work in Sprint 2
+- Finished password encode, email sent code for password reset, and voucher implementations
+
+Week 7
+- Attempt weekly meeting to update each other the individual working progress
+- Connect backend implementation with the frontend and debug
+
+Week 8
+- Attempt weekly meeting to practice for demo B
+- Present for demo B and attempt the retrospective meeting B
+- Finished the retrospective report B
+
+Week 9
+- Attemp weekly meeting to distribute work for Sprint 3
+- Connect backend with frontend and debug
+
+Week 10
+- Attempt weekly meeting
+- Present in final demo and Q&A
+- Finished report

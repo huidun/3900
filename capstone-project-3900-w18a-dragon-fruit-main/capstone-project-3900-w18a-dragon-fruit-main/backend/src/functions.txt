@@ -1,0 +1,2 @@
+Function Name       HTTP Method    Parameter   Return Type    Exception   Description
+auth/login          POST           (email,password)             None
