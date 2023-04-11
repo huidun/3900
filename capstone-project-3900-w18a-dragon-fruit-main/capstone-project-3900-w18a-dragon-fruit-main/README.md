@@ -1,7 +1,66 @@
 # Project of 3900-w18a-dragon-fruit
 
 ## Eatery Vouchers Management System
+Many people love a good bargain, and it is no exception when it comes to eating 
+out. In a push to bring people back into eateries such as cafes and restaurants, 
+Eatery Vouchers Management System aims to connect eateries with customers. 
+Eateries can maintain a profile about themselves and their menu. They can decide 
+to add a set number of vouchers that offer a percentage discount for a given time 
+range, and they can also decide to create a schedule to specify when they would
+like discount vouchers to be available for their eateries. Customers can then look 
+for discounts at eateries that look interesting to them, book a voucher for an eatery 
+they are interested in, and use that voucher to get a discount on their meal.
+The developed system should do, at least, the following:
+• Eateries must be able to register and maintain a profile for themselves that
+is visible to all system users, and includes at least the eatery name, address, 
+cuisines offered, and a menu.
+• A subscribed eatery must be able to offer any given number of discount 
+vouchers for any time range of a given day. A discount voucher provides a 
+customer with a percentage discount on their bill for a specified time range 
+at the eatery that offered the voucher.
+• To save staff the trouble of adding discount vouchers separately for each day, 
+the system must also allow eateries to specify a repeated weekly schedule, 
+specifically: when, what % discount, and how many discount vouchers will 
+appear for each time range the eatery wants to offer discount vouchers for 
+(e.g., this could allow staff to specify that 20 discount vouchers, each offering 
+15% off, are automatically added for between 1pm and 2pm for every 
+Tuesday).
+2
+• Customers must be able to find discounts that are available during a specified
+time range based on location (postcode), cuisine, and (optionally) some 
+keywords that match to eatery menu entries. Customers must be able to 
+navigate to any eatery's profile from search results. Once a customer finds 
+an available discount voucher: they must be able to book a voucher (which 
+reduces the available voucher count for that eatery and time period by 1) 
+and see the time range for which their booked voucher is available (each 
+customer must not be able to book a discount voucher if there are none left, 
+and can only book 1 voucher per eatery per voucher time range).
+• When a customer with a discount voucher orders their meal at the 
+corresponding eatery within the voucher's time range, they must be able to 
+use their voucher by showing the eatery a code that represents the discount 
+voucher. The eatery must then be able to use this code to identify what the 
+% discount should be, to verify that the customer had indeed booked a 
+discount voucher, and that this same discount voucher has not been 
+previously used.
+• Customers must be able to add reviews that include some text, and a rating 
+out of 5, for each eatery that they have a discount voucher for. Any customer
+must be able to read such reviews along with the average rating for any 
+eatery they are thinking of booking a discount voucher for.
+• A customer must be able to see recommendations showing all eateries that 
+are currently offering discount vouchers, where the customer has not 
+previously had a booking, and where the eatery is one that the customer
+might be interested in. You must incorporate information about the 
+customer's past bookings, their review ratings for past bookings, reviews and
+ratings left by other customers, and you may also use any other variable you 
+wish to use/introduce that can be helpful in providing such 
+recommendations.
 
+You need to come up with, at least, eight (8) functionalities including, at least, two 
+novel functionalities with respect to existing related eatery vouchers management
+systems.
+Useful Links
+1. https://eatclub.com.au/
+2. https://www.firsttable.com.au/sydney
 
 
 ## Team Members
